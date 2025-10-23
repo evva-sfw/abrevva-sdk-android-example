@@ -2,6 +2,10 @@
 
 Run gradle sync and start the app on your device.
 
+### Features
+- Request permissions
+- Start scan and log found devices
+
 ## Snapshot
 
 | Platform    | Version |
